@@ -19,11 +19,11 @@ RECIPIENTS = [
 # ─── Configuración de cada Bot ────────────────────────────────────
 BOTS = [
     {
-        "token": os.environ.get('BOT_TOKEN_1', ''),
+        "token": os.environ.get('BOT_TOKEN_2', ''),
         "name": "Bot 1"
     },
     {
-        "token": os.environ.get('BOT_TOKEN_2', ''),
+        "token": os.environ.get('BOT_TOKEN_3', ''),
         "name": "Bot 2"
     },
 ]
