@@ -26,10 +26,6 @@ BOTS = [
         "token": os.environ.get('BOT_TOKEN_2', ''),
         "name": "Bot 2"
     },
-    {
-        "token": os.environ.get('BOT_TOKEN_3', ''),
-        "name": "Bot 3"
-    },
 ]
 # ─────────────────────────────────────────────────────────────────
 
